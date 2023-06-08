@@ -43,6 +43,11 @@ export const Post = defineDocumentType(() => ({
       description: 'Short summary of the post',
       required: true,
     },
+    author: {
+      type: 'string',
+      description: 'Who is the author of the post',
+      required: true,
+    },
     tags: {
       type: 'list',
       of: { type: 'string' },
