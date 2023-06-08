@@ -59,7 +59,7 @@ export function PostCard({ post }: PostCardProps) {
             </span>
           </p>
           <p className="inline-flex items-center space-x-1 text-slate-600/90 dark:text-rose-50/80">
-            <span className="text-sm">Auther : {post.author}</span>
+            <span className="text-sm">Author : {post.author}</span>
             </p>
         </div>
         <PostTags tags={post.tags} className="text-sm sm:text-xs" />

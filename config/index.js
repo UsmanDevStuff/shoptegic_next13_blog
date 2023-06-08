@@ -35,10 +35,10 @@ const blogConfig = {
     },
   },
   giscus: {
-    repo: 'kfirfitousi/blog',
-    repoId: '650935907',
-    category: 'Comments',
-    categoryId: 'DIC_kwDOIcM7JM4CTdK0',
+    repo: 'entpnrusman/shoptegic_next13_blog',
+    repoId: 'R_kgDOJsx-Yw',
+    category: 'General',
+    categoryId: 'DIC_kwDOJsx-Y84CXD62',
     mapping: 'title',
     theme: {
       light: 'light',
