@@ -10,12 +10,12 @@ const blogConfig = {
   url: 'https://shoptegic.vercel.app',
   title: '‹shoptegic/blog›',
   titleParts: ['shoptegic', 'blog'],
-  author: 'Muhammad Usman',
+  author: 'Muhammad Usman & Wasif Hameed',
   pages: {
     home: {
-      title: 'ShopTegic Blog | Muhammad Usman',
+      title: 'ShopTegic Blog | U & W',
       description:
-        "My name is Usman and I'm a Full Stack Developer. Welcome to my dev blog! I write about Web Development and other topics I'm interested in.",
+        "ShopTegic Blog created and managed by Muhammad Usman & Wasif Hameed. Here you can find all latest information about e-commerce, technologies, and personal experiences, full mentorship to get you started with your first business and start earning.",
     },
     posts: {
       url: '/posts',
@@ -36,7 +36,7 @@ const blogConfig = {
   },
   giscus: {
     repo: 'kfirfitousi/blog',
-    repoId: 'R_kgDOIcM7JA',
+    repoId: '650935907',
     category: 'Comments',
     categoryId: 'DIC_kwDOIcM7JM4CTdK0',
     mapping: 'title',
@@ -54,13 +54,13 @@ const blogConfig = {
     buyMeACoffee: 'https://buymeacoffee.com/entpnrusman',
   },
   topics: [
-    'Web Development',
-    'React',
-    'TypeScript',
-    'Next.js',
-    'Rust',
-    'Design',
-    'Computer Vision',
+    'E-Commerce',
+    'Personal Experiences',
+    'Technology',
+    'Best Products',
+    'Reviews',
+    'Cryptocurrency',
+    'Future Technologies',
   ],
 };
 

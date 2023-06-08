@@ -62,7 +62,7 @@ export function HeroSection() {
       >
         <h1 className="block w-full text-center text-3xl font-bold text-slate-800 dark:text-rose-50 xs:text-4xl sm:text-5xl">
           <Balancer>
-            Welcome to my blog
+            Welcome to ShopTegic
             <span className="ml-2 inline-block origin-[70%_70%] animate-wave">
               👋
             </span>
