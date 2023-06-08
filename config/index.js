@@ -13,7 +13,7 @@ const blogConfig = {
   author: 'Muhammad Usman',
   pages: {
     home: {
-      title: 'Web Development Blog by Muhammad Usman',
+      title: 'ShopTegic Blog | Muhammad Usman',
       description:
         "My name is Usman and I'm a Full Stack Developer. Welcome to my dev blog! I write about Web Development and other topics I'm interested in.",
     },
@@ -21,7 +21,7 @@ const blogConfig = {
       url: '/posts',
       title: 'Posts',
       description:
-        "All my blog posts. I write about Web Development and other topics I'm interested in.",
+        "All blog posts. I write about e-commerse and other topics I'm interested in.",
     },
   },
   theme: {
@@ -50,8 +50,8 @@ const blogConfig = {
     github: 'https://github.com/entpnrusman',
     linkedin: 'https://www.linkedin.com/',
     email: 'business@shop-tegic.com',
-    storybook: 'https://story.blog.kfirfitousi.com',
-    buyMeAPizza: 'https://buymeacoffee.com/kfirfitousi',
+    storybook: 'https://story.shop-tegic.com',
+    buyMeACoffee: 'https://buymeacoffee.com/entpnrusman',
   },
   topics: [
     'Web Development',

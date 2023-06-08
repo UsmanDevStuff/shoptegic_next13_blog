@@ -1,4 +1,4 @@
-[![‹Shoptegic/blog›](https://user-images.githubusercontent.com/37262772/213866538-70e7024e-64f5-4bd8-ba92-af803e6169e7.png)](https://shoptegic.vercel.app)  
+[![‹Shoptegic/blog›](/public/og.png)](https://shoptegic.vercel.app)  
 
 Blog built with Next.js 13, TypeScript, Contentlayer, Zustand and TailwindCSS.
 

@@ -5,7 +5,7 @@ import {
   Copyright,
   Github,
   Linkedin,
-  Pizza,
+  Coffee,
   Twitter,
 } from 'lucide-react';
 
@@ -94,18 +94,18 @@ export function Footer() {
             </svg>
           </a>
         )}
-        {footerLinks?.buyMeAPizza && (
+        {footerLinks?.buyMeACoffee && (
           <a
-            href={footerLinks.buyMeAPizza}
+            href={footerLinks.buyMeACoffee}
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Pizza
-              id="pizza"
+            <Coffee
+              id="Coffee"
               className="icon-base"
-              data-tooltip-content="Buy me a pizza"
+              data-tooltip-content="Buy me a Coffee"
               data-tooltip-id="footer-tooltip"
-              aria-label="Buy me a pizza"
+              aria-label="Buy me a Coffee"
             />
           </a>
         )}
