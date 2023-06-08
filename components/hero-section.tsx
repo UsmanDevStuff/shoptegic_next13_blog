@@ -79,7 +79,7 @@ export function HeroSection() {
               dispatch({ type: 'setDone', payload: 'subtitle' });
             }}
           >
-            I write about{' '}
+            We write about{' '}
           </Typist>
         )}
         {subtitleDone && (
