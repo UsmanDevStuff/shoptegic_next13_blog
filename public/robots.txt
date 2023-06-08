@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shoptegic.vercel.app
+
+# Sitemaps
+Sitemap: https://shoptegic.vercel.app/sitemap.xml
