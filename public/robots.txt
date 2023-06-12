@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://shoptegic.vercel.app
+Host: https://shop-tegic.com/
 
 # Sitemaps
-Sitemap: https://shoptegic.vercel.app/sitemap.xml
+Sitemap: https://shop-tegic.com/sitemap.xml

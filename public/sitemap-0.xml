@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://shop-tegic.com/about</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/amazon/amazon-alexa</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/amazon-starter-guide/amazon-starter-guide-1</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/computer-vision/lane-detection</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/github/github</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/rust/fizzbuzz</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/web-dev/mdx-nextjs-13</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts/web-dev/parallax-framer-motion</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://shop-tegic.com/posts</loc><lastmod>2023-06-12T16:22:00.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

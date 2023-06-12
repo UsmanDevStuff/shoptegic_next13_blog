@@ -1,6 +1,6 @@
 import '@/styles/globals.css';
 import 'react-tooltip/dist/react-tooltip.css';
-import { Newsreader, Red_Hat_Display } from 'next/font/google';
+import { Newsreader, Red_Hat_Display } from 'next/font/google'; // Newsreader
 import { type Metadata } from 'next/types';
 import { allPosts } from 'contentlayer/generated';
 

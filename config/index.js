@@ -7,7 +7,7 @@
 
 /** @type {import('./types').BlogConfig} */
 const blogConfig = {
-  url: 'https://shoptegic.vercel.app',
+  url: 'https://shop-tegic.com/',
   title: '‹shoptegic/blog›',
   titleParts: ['shoptegic', 'blog'],
   author: 'Muhammad Usman & Wasif Hameed',
