@@ -23,6 +23,11 @@ const blogConfig = {
       description:
         "All blog posts. I write about e-commerse and other topics I'm interested in.",
     },
+    about: {
+      url: '/about',
+      title: 'About',
+      description: "ShopTegic Blog is created and managed by Muhammad Usman & Wasif Hameed."
+    }
   },
   theme: {
     accentColor: {

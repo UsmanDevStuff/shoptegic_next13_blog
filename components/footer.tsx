@@ -117,7 +117,7 @@ export function Footer() {
 
       <div>
       <Button
-          href="/join-mentorship"
+          href="/mentorship"
           label="Join Mentorship"
           className="place-self-end"
           icon={<Bookmark className="h-4 w-4" />}

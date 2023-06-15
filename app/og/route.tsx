@@ -7,15 +7,15 @@ import { blogConfig } from '@/config';
 export const runtime = 'edge';
 
 const fontRegular = fetch(
-  new URL('../../public/assets/RedHatDisplay-Regular.ttf', import.meta.url),
+  new URL('../../public/fonts/RedHatDisplay-Regular.ttf', import.meta.url),
 ).then((res) => res.arrayBuffer());
 
 const fontSemiBold = fetch(
-  new URL('../../public/assets/RedHatDisplay-SemiBold.ttf', import.meta.url),
+  new URL('../../public/fonts/RedHatDisplay-SemiBold.ttf', import.meta.url),
 ).then((res) => res.arrayBuffer());
 
 const fontBold = fetch(
-  new URL('../../public/assets/RedHatDisplay-Bold.ttf', import.meta.url),
+  new URL('../../public/fonts/RedHatDisplay-Bold.ttf', import.meta.url),
 ).then((res) => res.arrayBuffer());
 
 export async function GET(req: NextRequest) {
