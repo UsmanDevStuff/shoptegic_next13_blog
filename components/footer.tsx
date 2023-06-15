@@ -7,7 +7,10 @@ import {
   Linkedin,
   Coffee,
   Twitter,
+  FileText,
+  Bookmark
 } from 'lucide-react';
+import { Button } from '@/components/button';
 
 import { blogConfig } from '@/config';
 import { Tooltip } from '@/components/tooltip';
@@ -110,6 +113,15 @@ export function Footer() {
           </a>
         )}
         <Tooltip id="footer-tooltip" />
+      </div>
+
+      <div>
+      <Button
+          href="/join-mentorship"
+          label="Join Mentorship"
+          className="place-self-end"
+          icon={<Bookmark className="h-4 w-4" />}
+        />
       </div>
 
       <div className="flex h-6 flex-row items-center justify-center space-x-1 text-slate-600 dark:text-slate-300">

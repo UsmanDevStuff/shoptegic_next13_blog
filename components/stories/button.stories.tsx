@@ -22,6 +22,12 @@ export const WithIcon: Story = {
     icon: <FileText className="h-4 w-4" />,
   },
 };
+export const Mentorship: Story = {
+  args: {
+    label: 'Join Mentorship',
+    icon: <FileText className="h-4 w-4" />,
+  },
+};
 
 export const WithoutIcon: Story = {
   args: {
