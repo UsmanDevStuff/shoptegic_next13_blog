@@ -1,4 +1,4 @@
-[![‹Shoptegic/blog›](/public/og.png)](https://shoptegic.vercel.app)  
+[![‹Shoptegic/blog›](/public/og.png)](https://shop-tegic.com/)  
 
 Blog built with Next.js 13, TypeScript, Contentlayer, Zustand and TailwindCSS.
 
