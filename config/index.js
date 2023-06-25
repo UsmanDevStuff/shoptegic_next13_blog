@@ -8,7 +8,7 @@
 /** @type {import('./types').BlogConfig} */
 const blogConfig = {
   url: 'https://shop-tegic.com/',
-  title: '‹ShopTegic',
+  title: 'ShopTegic',
   titleParts: ['shoptegic', 'blog'],
   author: 'Muhammad Usman & Wasif Hameed',
   pages: {
@@ -64,8 +64,6 @@ const blogConfig = {
     'Technology',
     'Best Products',
     'Reviews',
-    'Cryptocurrency',
-    'Future Technologies',
   ],
 };
 
