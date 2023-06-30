@@ -51,9 +51,9 @@ const blogConfig = {
     },
   },
   footerLinks: {
-    twitter: 'https://twitter.com/',
+    twitter: '/',
     github: 'https://github.com/entpnrusman',
-    linkedin: 'https://www.linkedin.com/',
+    linkedin: '/',
     email: 'business@shop-tegic.com',
     storybook: 'https://story.shop-tegic.com',
     buyMeACoffee: 'https://buymeacoffee.com/entpnrusman',
